@@ -1,0 +1,60 @@
+.title-banner {
+    background-color: gray;
+    color: white;
+}
+
+.forecast-day {
+    background-color: lightblue;
+    color: white;
+    margin-left: 3px;
+    padding-top: 10px;
+}
+
+.navbar {
+    margin-right: 0;
+}
+
+.current-box {
+    margin-right: 10px;
+}
+
+input {
+    margin-left: 5px;
+}
+
+button {
+    background-color: lightblue;
+    border: 2px solid lightblue;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+button:active {
+    background-color: lightblue;
+}
+
+button:hover {
+    border: 2px solid gray;
+}
+
+.list-group-item {
+    background-color: lightblue;
+    border: none;
+    color: white;
+}
+
+.clear {
+    background-color: crimson;
+    border: 2px solid crimson;
+}
+
+.clear:active {
+    background-color: crimson); 
+}
+
+.list-group-item:active {
+    background-color: lightblue;
+}
