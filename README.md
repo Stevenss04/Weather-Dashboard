@@ -10,4 +10,4 @@ This project will have the user answer a timed quiz on coding topics and then su
 
 ## Deployed Application Link
 
-https://stevenss04.github.io/Code-Quiz/
+https://stevenss04.github.io/Weather-Dashboard/
